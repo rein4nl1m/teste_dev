@@ -12,3 +12,6 @@ Funcionalidades:
 - Pesquisa de Notícias
 
 Dados persistidos com Sqflite.
+
+## Teste de Lógica
+Questões de 1 a 13 e 15 respondidas. 14 não foi respondida.
